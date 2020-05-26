@@ -1,0 +1,20 @@
+    RFID RC522:  
+SDA             D10
+SCK             D13
+MOSI            D11
+MISO            D12
+IRQ             N/A
+GND             GND
+RST             D9
+3.3V            3.3V
+
+   LCD 16x02 I2C:
+SDA             A4
+SCL             A5
+VCC             5V
+GND             GND
+
+SBLOCCO PORTA E LED:
+RELE'		D4
+LED VERDE	D2
+LED ROSSO	D3

@@ -1,0 +1,7 @@
+-------------------- ELENCO LIBRERIE DA INSTALLARE IN CASO DI MODIFICHE AL PROGRAMMA --------------------
+
+-Installare la libreria RFID per controllare il lettore di tessere
+ Per installare la libreria andare in: Sketch > "#include libreria" > "aggiungi libreria da file .zip" > selezionare il file "RFID.zip" nella cartella "librerie_Datasheet", all'interno della cartella del programma.
+ 
+-Per controllare il display LCD usare la libreria "LiquidCrystal I2C" di Frank de Brabander - versione 1.1.2
+ Per scaricarla andare in: Sketch > "gestione librerie" > cercare "lcd i2c" e trovare la libreria corrispondente.
